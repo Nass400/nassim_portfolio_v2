@@ -1,13 +1,11 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-02-01'
+title: 'Full-Stack Developer Intern'
+company: 'JUSTECH'
+location: 'Tunis, TN'
+range: 'Feb - Dec 2021'
+url: 'http://www.justech.tn/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Being a part of the Team that worked on the <a href="https://www.al-fikr.com">Al-Fikr</a> Project, a portal for thepublication of electronic journals and electronic books in a single virtualspace.
+- Designing and Developing a workflow management system optimized to streamline communication between Authors, Editors, and Reviewers throughout the peer review process solving the issues of numerous biases from reviewers or editors, detecting Fraud, and improving the classical peer-reviewing process.
