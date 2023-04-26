@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'AI Article Summarizer'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/Nass400/nass.summarizer'
+external: 'https://fabulous-macaron-eee914.netlify.app/'
 tech:
   - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Tailwind
+  - RapidAPI
+  - OpenAI GPT4
+  - Vit
+  - Redux
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+a web application that uses GPT-4 to automatically summarize articles from web links, providing users with quick and efficient access to key takeaways from lengthy content.

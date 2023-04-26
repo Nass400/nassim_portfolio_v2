@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Python', 'Node.js', 'Java'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,13 +135,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Nassim and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2015 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Nassim and  I have a passion for building practical projects 
+              that can make a real impact in the world. My love for programming started when 
+              I was a kid, tinkering with HTML &amp; CSS, and a bit of JavaScript. Over the years, 
+              I've honed my skills and knowledge, expanding my programming languages to include
+              Python, Java, and more.
+            </p>
+            <p>
+            What really drives me is the ability to create projects that solve real-world problems.
+             I love using my skills to create software that can help people, whether it's improving
+              business operations or making life easier for everyday users. Along with my technical
+               expertise, I'm also interested in entrepreneurship and business. 
+               I believe that software engineering and entrepreneurship go hand in hand, 
+               and I'm excited to continue exploring the intersection of these two fields.
+            </p>
+            <p>
+            Overall, I'm a dedicated and passionate software engineer who loves to learn and create.
+             If you're looking for someone who can help turn your ideas into reality, I'm your guy!
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -159,7 +172,7 @@ const About = () => {
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
